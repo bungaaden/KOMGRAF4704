@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704522990 source:c:\users\62812\onedrive\dokumen\tugas komputer grafik\rotasi3d\main.cpp
+	<GL/glut.h>
+	<math.h>
+

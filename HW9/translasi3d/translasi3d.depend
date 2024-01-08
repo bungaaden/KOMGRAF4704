@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704713001 source:c:\users\62812\onedrive\dokumen\tugas komputer grafik\translasi3d\main.cpp
+	<GL/glut.h>
+	<iostream>
+
